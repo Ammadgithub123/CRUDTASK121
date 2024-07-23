@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CRUD TASK.</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+        <h1>CRUD OPERATION.</h1>
+        <div id="customer-form">
+            <h2>Get Customers</h2>
+            <form id="customer-form">
+                <label for="Name">Name:</label>
+                <input type="text" id="Name" placeholder="Name" required>
+                <label for="DOB">DOB:</label>
+                <input type="text" id="DOB" placeholder="DOB" required>
+                <label for="Email">EMAIL:</label>
+                <input type="email" id="Email" placeholder="Email">
+                <label for="ContactNo">ContactNo:</label>
+                <input type="number" id="ContactNo" placeholder="ContactNo">
+                <button type="submit">Add Customer</button>
+            </form>
+        </div>
+
+        <div id="customer-list">
+            <h2>Customers-Information</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>DOB</th>
+                        <th>Email</th>
+                        <th>ContactNo</th>
+                    </tr>
+                </thead>
+            </table>
+
+            <div class="list-container">
+                <h2>Customers</h2>
+                <ul id="customerList">
+
+                </ul>
+            </div>
+        </div>
+
+        <script src="script.js"></script>
+
+</body>
+</html>
+
+

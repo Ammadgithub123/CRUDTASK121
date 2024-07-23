@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\ASP.Net Projects\\Task 3\\CURD Operation Task\\CRUDTASK12\\CRUDTASK12\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "E:\\ASP.Net Projects\\Task 3\\CURD Operation Task\\CRUDTASK12\\CRUDTASK12\\wwwroot\\script.js",
+      "PackagePath": "staticwebassets\\script.js"
+    },
+    {
+      "Id": "E:\\ASP.Net Projects\\Task 3\\CURD Operation Task\\CRUDTASK12\\CRUDTASK12\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CRUDTASK12.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CRUDTASK12.props",
+      "PackagePath": "build\\CRUDTASK12.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CRUDTASK12.props",
+      "PackagePath": "buildMultiTargeting\\CRUDTASK12.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CRUDTASK12.props",
+      "PackagePath": "buildTransitive\\CRUDTASK12.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

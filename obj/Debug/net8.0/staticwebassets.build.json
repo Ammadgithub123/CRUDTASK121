@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "+boB2OWeIvu/4U+4IHsHtCkYZf7F1DDylEZsTtk6CV4=",
+  "Source": "CRUDTASK12",
+  "BasePath": "_content/CRUDTASK12",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CRUDTASK12\\wwwroot",
+      "Source": "CRUDTASK12",
+      "ContentRoot": "E:\\ASP.Net Projects\\Task 3\\CURD Operation Task\\CRUDTASK12\\CRUDTASK12\\wwwroot\\",
+      "BasePath": "_content/CRUDTASK12",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\ASP.Net Projects\\Task 3\\CURD Operation Task\\CRUDTASK12\\CRUDTASK12\\wwwroot\\index.html",
+      "SourceId": "CRUDTASK12",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ASP.Net Projects\\Task 3\\CURD Operation Task\\CRUDTASK12\\CRUDTASK12\\wwwroot\\",
+      "BasePath": "_content/CRUDTASK12",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "E:\\ASP.Net Projects\\Task 3\\CURD Operation Task\\CRUDTASK12\\CRUDTASK12\\wwwroot\\script.js",
+      "SourceId": "CRUDTASK12",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ASP.Net Projects\\Task 3\\CURD Operation Task\\CRUDTASK12\\CRUDTASK12\\wwwroot\\",
+      "BasePath": "_content/CRUDTASK12",
+      "RelativePath": "script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "E:\\ASP.Net Projects\\Task 3\\CURD Operation Task\\CRUDTASK12\\CRUDTASK12\\wwwroot\\style.css",
+      "SourceId": "CRUDTASK12",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ASP.Net Projects\\Task 3\\CURD Operation Task\\CRUDTASK12\\CRUDTASK12\\wwwroot\\",
+      "BasePath": "_content/CRUDTASK12",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ]
+}
